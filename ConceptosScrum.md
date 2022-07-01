@@ -1,5 +1,6 @@
 # ISPC-aula22
 Grupo de Estudio-Aula 22
+
 Ceremonias o Reuniones: son los momentos en que se permite visualizar ell avance del proyecto. Son la planificaión, scrum diario, revisión del sprint y retrospectiva del sprint.
 
 Los artefactos son: 
